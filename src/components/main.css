@@ -1,0 +1,11 @@
+h2 {
+    text-align: center;
+}
+
+
+.container-fluid.d-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px; /* Adjust the value to increase/decrease the space */
+  }
